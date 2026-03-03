@@ -1,0 +1,45 @@
+body {
+            width: 80%;
+            margin: 0 auto;
+            background-color: #beedd1;
+            padding: 20px;    
+        }
+
+        .mypinkcat{
+            font-size: 50px;
+            text-emphasis: underline;
+            color: brown;
+            background-color: blueviolet;
+        }
+        ul {
+            background-color: #7e478e ;
+            color: #392323;
+            padding: 10px;
+        }
+        p{
+            color: rgb(200, 31, 113);
+        }
+        
+        .white{
+            color: white;
+        }
+        
+        .italic{
+            font-style: italic;
+        }
+        .maincontent {
+            width: 70%;
+            float: left;
+            padding: 10px;
+        }
+        .myfount> {
+            font-family: "Merriweather", serif;font-optical-sizing: auto;
+            font-weight: <weight>;
+            font-style: italic;
+            font-variation-settings:"wdth" 100;
+}
+  
+
+        
+ 
+       
